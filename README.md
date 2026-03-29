@@ -9,7 +9,7 @@ In this work, we perform breast tumor segmentation on the widely used BUSI datas
 The proposed framework is specifically designed to balance **model efficiency and predictive performance**, aiming to reduce computational complexity and training cost while preserving segmentation accuracy.
 
 **Main contribution:**
-Experimental results demonstrate that our method achieves **competitive performance compared to state-of-the-art (SOTA) approaches**, with quantitative results of **IoU: 70%, Dice: 75%, Precision: 80%, Recall: 79%, and Specificity: 98.58%**.
+* Experimental results demonstrate that our method achieves **competitive performance compared to state-of-the-art (SOTA) approaches**, with quantitative results of **IoU: 70%, Dice: 75%, Precision: 80%, Recall: 79%, and Specificity: 98.58%**.
 
 * Furthermore, we show that the incorporation of **KAN and quantum-inspired techniques** enhances representation capability while significantly reducing model size and computational overhead.
 
