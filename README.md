@@ -3,7 +3,7 @@
 ## **Quantum Adaptive Coefficient U-Net for Breast Ultrasound Segmentation**
 
 > This paper is currently under review at **ACIVS 2026**, an **ICORE B-ranked conference**.
-
+kaggle link: https://www.kaggle.com/code/nhatlong1103/qac-unet-3datasets/notebook
 ## **Introduction**
 
 Breast ultrasound is widely used for breast lesion assessment because it is non-invasive, accessible, and cost-effective. However, automatic lesion segmentation remains difficult due to:
